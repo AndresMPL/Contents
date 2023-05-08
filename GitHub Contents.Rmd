@@ -1,0 +1,33 @@
+
+---
+title: "Contenido en el repositorio de GitHub"
+subtitle: "Códigos para diferentes trabajos en R y algunos análisis estadísticos de interés"
+author: "Andres M. Palacio"
+output: pdf_document
+fig_caption: yes
+latex_engine: xelatex
+number_sections: yes
+toc: yes
+date: '\today'
+linkcolor: blue
+urlcolor: blue
+---
+
+
+\pagebreak
+
+# 
+
+\pagebreak
+
+# 
+
+\pagebreak
+
+# 
+
+\pagebreak
+
+# 
+
+\pagebreak
