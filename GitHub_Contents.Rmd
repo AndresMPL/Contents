@@ -1,0 +1,94 @@
+
+---
+title: "Contenido en el repositorio de GitHub"
+subtitle: "Códigos para diferentes trabajos en R y algunos análisis estadísticos de interés"
+author: "Andres M. Palacio"
+output: pdf_document
+fig_caption: yes
+latex_engine: xelatex
+number_sections: yes
+toc: yes
+date: '\today'
+linkcolor: blue
+urlcolor: blue
+---
+
+\pagebreak
+
+
+# Kaggle
+
+
+## Titanic
+
+
+- [Fuente](https://pyoflife.com/exploring-the-titanic-dataset-with-r-a-beginners-guide-to-eda-pdf/)
+
+
+\pagebreak
+
+
+## Ejercicio de medicina
+
+
+\pagebreak
+
+
+# Paquete ggplot2
+
+
+- [Fuente](https://github.com/erikgahner/awesome-ggplot2#readme)
+
+
+\pagebreak
+
+
+# Archivo Readme en GitHub
+
+
+- [Fuente]()
+
+
+\pagebreak
+
+
+# Generación de secuencias de números en R con: seq() y rep()
+
+
+- [Fuente](https://www.marsja.se/how-to-generate-a-sequence-of-numbers-in-r-with-seq-and-rep/)
+
+
+# Funciones esenciales de R
+
+
+- [Fuente](https://www.rforecology.com/post/the-essential-functions-of-r-cheatsheet/)
+
+
+\pagebreak
+
+
+# webR Code Extension for Quarto HTML Documents
+
+- [Fuente](https://github.com/coatless/quarto-webr#install-on-an-as-needed-basis)
+
+
+\pagebreak
+
+
+# Libros
+
+
+- [Introduction to Probability for Data Science](https://probability4datascience.com/)
+
+
+\pagebreak
+
+
+# Loops en R
+
+
+- [Fuente](https://statisticsglobe.com/loops-in-r/)
+
+
+\pagebreak
+
