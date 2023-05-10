@@ -14,6 +14,19 @@ urlcolor: blue
 
 \pagebreak
 
+
+# Bases de datos para el desarrollo de ejercicios
+
+- DANE
+- Ministerio de Salud y Protección Social
+- Banco de la República
+- OCDE
+- Banco Mundial
+
+
+\pagebreak
+
+
 # Competencias en Kaggle
 
 ## Titanic
@@ -46,36 +59,6 @@ urlcolor: blue
 \pagebreak
 
 # Aspectos básicos en R
-
-## Libro de códigos
-
-- [Fuente](https://rpubs.com/medusa/91225)
-
-\pagebreak
-
-## Los básicos de R
-
-- [Fuente](https://coaching.rforecology.com/)
-
-\pagebreak
-
-## Tutoriales introductorios
-
-- [Fuente](https://www.r-bloggers.com/2015/12/how-to-learn-r-2/)
-
-\pagebreak
-
-## Funciones esenciales de R
-
-- [Fuente](https://www.rforecology.com/post/the-essential-functions-of-r-cheatsheet/)
-
-\pagebreak
-
-## Programación en R
-
-- [Fuente](https://www.bigbookofr.com/r-programming.html>)
-
-\pagebreak
 
 ## Sum Across Columns in R -- dplyr & base
 
@@ -138,7 +121,7 @@ urlcolor: blue
 
 \pagebreak
 
-#Procesamiento de texto 
+# Procesamiento de texto 
 
 - [Fuente](https://programminghistorian.org/es/lecciones/procesamiento-basico-de-textos-en-r> - <https://www.bigbookofr.com/text-analysis.html)
 
@@ -180,6 +163,10 @@ urlcolor: blue
 
 - [Fuente](https://www.bigbookofr.com/reports.html)
 
+
+\pagebreak
+
+
 # HTML en R
 
 ## webR Code Extension for Quarto HTML Documents
@@ -188,7 +175,63 @@ urlcolor: blue
 
 \pagebreak
 
-# Artículos
+# Ejercicios
+
+## Libro *"Introducción a la microeconometría básica con aplicaciones en R"*
+**Revilla, 2020. Universidad de la Salle.**
+
+
+\pagebreak
+
+
+## Libro *"Métodos matemáticos y computacionales en Macroeconometría"*
+**Villegas, 2009. Universidad de los Andes.**
+
+
+\pagebreak
+
+
+## Libro *"Modelos de crecimiento económico en R"*
+**Fentanes, Quintana, Garza, 2022. Alpha Editorial.**
+
+
+\pagebreak
+
+
+# Lecturas generales
+
+## Libro de códigos
+
+- [Fuente](https://rpubs.com/medusa/91225)
+
+\pagebreak
+
+## Los básicos de R
+
+- [Fuente](https://coaching.rforecology.com/)
+
+\pagebreak
+
+## Tutoriales introductorios
+
+- [Fuente](https://www.r-bloggers.com/2015/12/how-to-learn-r-2/)
+
+\pagebreak
+
+## Funciones esenciales de R
+
+- [Fuente](https://www.rforecology.com/post/the-essential-functions-of-r-cheatsheet/)
+
+\pagebreak
+
+## Programación en R
+
+- [Fuente](https://www.bigbookofr.com/r-programming.html>)
+
+\pagebreak
+
+
+# Artículos de interés
 
 - [R, herramienta de científicos de datos](https://www.enae.es/blog/lenguaje-r-la-herramienta-de-los-cientificos-de-datos?_adin=0745282514#gref)
 - [Matemáticas en ciencia de datos](https://pub.towardsai.net/how-much-math-do-i-need-in-data-science-d05d83f8cb19)
@@ -196,7 +239,7 @@ urlcolor: blue
 
 \pagebreak
 
-# Libros
+# Libros relacionados
 
 -   [Introduction to Probability for Data Science](https://probability4datascience.com/)
 -   [Libros gratis PDF para aprender R en Español](https://aprendiendoinformatica.com/2020/06/libros-pdf-gratis-para-aprender-r-en-espanol/)
